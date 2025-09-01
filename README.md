@@ -22,7 +22,7 @@ A fine-tuned TinyLlama 1.1B model specialized for psychology-related questions a
 
 This model is a fine-tuned version of TinyLlama 1.1B specifically trained on psychology Q&A data to provide helpful psychological guidance and responses.
 
-- **Developed by:** [Your Name/Username]  
+- **Developed by:** [nayaksomkar]  
 - **Model type:** Causal Language Model (Psychology Fine-tuned)  
 - **Language(s):** English  
 - **License:** Apache 2.0  
